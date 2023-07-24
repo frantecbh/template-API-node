@@ -17,6 +17,14 @@ npm i dotenv
 
 npm i zod
 
+npm i -D eslint @rocketseat/eslint-config
+
+criar .eslintrc.json
+
+{
+  "extends": "@rocketseat/eslint-config/node"
+}
+
 
 ## Instalação
 
